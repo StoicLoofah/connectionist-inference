@@ -1,0 +1,31 @@
+Intro
+	background on Bayesian models
+	background on connectionist models
+	motivation
+Related works
+	MCMC methods
+	Jay's thing
+	Pouget
+	RBM
+Methods
+	description of integrate-and-fire
+	comparison with MCMC
+	description of coherency
+Steps in development
+	simple 2 var network
+	large steps
+	constraints for search
+	hill climbing
+Results
+	does have a corresponding bayes net
+	effect of lesioning things
+	deep connections
+Learning a network
+	inspired by recurrent back-prop
+	
+	difficulties
+		non-differentiable
+		indirect effect between weights
+Discussion
+
+Conclusion

@@ -1,0 +1,8 @@
+$\begin{displaymath}
+   a_{i}^{t+1} = \left\{
+     \begin{array}{lr}
+       a_{i}^{t} + \sum_{j}f_{j}^{t}w_{ij} & : a_{i}^{t} < 1\\
+       \sum_{j}f_{j}^{t}w_{ij} & : otherwise
+     \end{array}
+   \right.
+\end{displaymath}$
